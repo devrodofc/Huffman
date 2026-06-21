@@ -1,0 +1,1 @@
+A codificacao de Huffman e um algoritmo de compressao sem perdas utilizado para reduzir o tamanho de arquivos.
